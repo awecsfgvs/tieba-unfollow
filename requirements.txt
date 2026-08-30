@@ -1,0 +1,5 @@
+aiotieba>=4.7
+
+# 以下仅构建 exe 时需要
+# pyinstaller
+# pillow
